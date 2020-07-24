@@ -1,0 +1,79 @@
+.navtextlarge {
+    color: #dda15e;
+    font-size: xx-large;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 700;
+    margin-left: -10px;   
+}
+
+.navlinks {
+    color: #FEFAE0;
+    font-size: large;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 400;
+    padding-left: 50px;  
+    text-align: center;   
+}
+
+.h1heading {
+    color: #606C38;
+    font-size: 75px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    margin-bottom: -27px;
+    padding: 0;
+    text-align: left;
+    margin-left: -3px;
+}
+
+.aboutmetext {
+    color: #283618;
+    font-size: large;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 200;
+    margin-top: 20px;
+    text-align: left
+}
+
+.Julianimage {
+    max-width: 250px;
+    margin-top: 20px;
+    border-radius: 5%;
+    filter: saturate(30%);
+    opacity: 80%;
+}
+
+.textarea {
+    width: 100%;
+    opacity: 40%;
+}
+
+.label {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: larger;
+    color: #606C38;
+    padding-top: 15px;
+    padding-bottom: -10px;
+}
+
+.submit {
+    color: #dda15e;
+    background-color: #606C38;
+}
+
+.footertext {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 200;
+    text-align: center;
+    margin: 1.5px;
+    display: block;
+}
+
+.cardbody {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 200;
+    text-align: left;
+    margin: 1.5px;
+    display: block;
+    padding: 10px;
+    opacity: 60%;
+}
